@@ -13,7 +13,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>REACT</h3>
-                    <p> As a student, I have learned to use React to build interactive and user-friendly web applications. I have experience working with components to create reusable UI elements and managing state using useState and useEffect. I can set up React Router for simple navigation and fetch data from APIs to display dynamic content. I also handle basic event interactions and style applications using CSS, Bootstrap, and Tailwind CSS. While I’m still learning, I enjoy experimenting with React to improve my skills and build better projects.
+                    <p> I have learned to use React to build interactive and user-friendly web applications. I have experience working with components to create reusable UI elements and managing state using useState and useEffect. I can set up React Router for simple navigation and fetch data from APIs to display dynamic content. I also handle basic event interactions and style applications using CSS, Bootstrap, and Tailwind CSS. While I’m still learning, I enjoy experimenting with React to improve my skills and build better projects.
 
 </p>
                     <div className="flex-chips">
