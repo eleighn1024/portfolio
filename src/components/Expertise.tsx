@@ -13,7 +13,9 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faReact} size="3x"/>
                     <h3>REACT</h3>
-                    <p> A 2nd-year BSIT student at Western Institute of Technology with skills in React development, building dynamic and interactive web applications.</p>
+                    <p> As a student, I have learned to use React to build interactive and user-friendly web applications. I have experience working with components to create reusable UI elements and managing state using useState and useEffect. I can set up React Router for simple navigation and fetch data from APIs to display dynamic content. I also handle basic event interactions and style applications using CSS, Bootstrap, and Tailwind CSS. While I’m still learning, I enjoy experimenting with React to improve my skills and build better projects.
+
+</p>
                     <div className="flex-chips">
                         <span className="chip-title"></span>
                        
@@ -23,7 +25,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faPython} size="3x"/>
                     <h3>PYTHON</h3>
-                    <p>A 2nd-year BSIT student at Western Institute of Technology with skills in Python programming, including data analysis, automation, and problem-solving, alongside experience in JavaScript development and design.</p>
+                    <p>I have learned to use Python for writing simple programs and solving problems. I can work with variables, loops, and conditionals to control the flow of a program and use functions to make my code more organized and reusable. I have experience handling lists, dictionaries, and tuples for managing data efficiently. I also know how to read and write files, which helps in storing and retrieving information.</p>
                     <div className="flex-chips">
                         <span className="chip-title"></span>
                          
@@ -35,7 +37,7 @@ function Expertise() {
                 <div className="skill">
                     <FontAwesomeIcon icon={faHtml5} size="3x"/>
                     <h3>HTML</h3>
-                    <p>A 2nd-year BSIT student at Western Institute of Technology with skills in HTML, including creating structured, accessible, and responsive web pages.</p>
+                    <p>I have learned to use HTML to create the structure of web pages. I can write and organize content using elements like headings, paragraphs, lists, and links. I have experience working with forms and input fields to collect user data and using tables to display information neatly. I also know how to add images, videos, and audio to make web pages more interactive.</p>
                     <div className="flex-chips">
                         <span className="chip-title"></span>
                         
