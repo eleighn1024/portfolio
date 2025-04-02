@@ -16,7 +16,7 @@ function Project() {
             <div className="project">
                 <a href="https://awesometodosappjabuen.onrender.com/" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://awesometodosappjabuen.onrender.com/" target="_blank" rel="noreferrer"><h2>Awesome Todos</h2></a>
-                <p>A minimal Todo App with full CRUD.</p>
+                <p>A minimal Todo App with full CRUD functionality.</p>
             </div>
             
             </div>
