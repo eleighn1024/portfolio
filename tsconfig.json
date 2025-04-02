@@ -1,26 +1,26 @@
 {
   "compilerOptions": {
-    "target": "es5", // The JavaScript version to compile to. ES5 is widely supported in browsers.
+    "target": "es5",
     "lib": [
-      "dom", // Includes DOM library for browser APIs.
-      "dom.iterable", // Allows iteration over DOM collections.
-      "esnext" // Includes the latest ECMAScript features.
+      "dom",
+      "dom.iterable",
+      "esnext"
     ],
-    "allowJs": true, // Allows JavaScript files to be compiled alongside TypeScript files.
-    "skipLibCheck": true, // Skips type checking of declaration files (*.d.ts) for faster compilation.
-    "esModuleInterop": true, // Enables compatibility between CommonJS and ES Module syntax.
-    "allowSyntheticDefaultImports": true, // Allows default imports from modules with no default export.
-    "strict": true, // Enables all strict type-checking options for better type safety.
-    "forceConsistentCasingInFileNames": true, // Ensures that file names are treated case-sensitively.
-    "noFallthroughCasesInSwitch": true, // Prevents fallthrough cases in switch statements.
-    "module": "esnext", // Specifies the module code generation. 'esnext' allows the latest module syntax.
-    "moduleResolution": "node", // Specifies how modules are resolved. 'node' mimics Node.js module resolution.
-    "resolveJsonModule": true, // Allows importing JSON files as modules.
-    "isolatedModules": true, // Ensures that each file can be safely transpiled independently.
-    "noEmit": true, // Prevents the compiler from emitting output files.
-    "jsx": "react-jsx" // Specifies the JSX code generation. 'react-jsx' is for React 17 and above.
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx"
   },
   "include": [
-    "src" // Specifies the files or directories to be included in the compilation.
+    "src"
   ]
 }
